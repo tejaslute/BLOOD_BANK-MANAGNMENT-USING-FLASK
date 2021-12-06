@@ -1,0 +1,2 @@
+# BLOOD_BANK-MANAGNMENT-USING-FLASK
+ . So here I have developed a website using FLASK and SQL where the citizens will be able to know blood available in blood bank. A better idea is to use the application which  is very popular with people too. This website is providing each entity the facility to approach nearby blood donors so that it will become much easier to search rare blood groups in the hour of need. This website maintains record of all doners and their blood group .
